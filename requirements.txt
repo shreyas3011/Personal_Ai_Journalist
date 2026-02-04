@@ -1,2 +1,15 @@
 streamlit
 fastapi
+groq
+python-dotenv
+langchain
+langgraph
+beautifulsoup4
+elevenlabs
+aiolimiter
+langchain-groq
+lxml
+ollama
+mcp
+langchain-mcp-adapters
+gtts
